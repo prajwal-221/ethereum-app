@@ -1,0 +1,13 @@
+{
+  "name": "ethereum-info-app",
+  "version": "1.0.0",
+  "description": "A simple Node.js app about Ethereum for Azure App Service",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "express": "^4.19.2"
+  }
+}
