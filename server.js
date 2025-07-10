@@ -34,4 +34,7 @@ app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
 });
 
+
+
+//Hello i am prajwal 
 // This is a node js app that fetches the current price of Ethereum in USD from the CoinGecko API and serves it on a simple HTML page. The app is designed to be deployed on Azure App Service.
